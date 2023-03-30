@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PhiSch19
-- 👀 I’m interested in Full-Stack-Developing
+- 👀 I’m interested in Full-Stack-Development
 - 💞️ I’m looking to collaborate on Open-Source-Projects which help other people (Endusers aswell as Developers)
 - 📫 How to reach me "PhiSch19@icloud.com"
 
